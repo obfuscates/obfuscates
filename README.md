@@ -9,12 +9,12 @@ main languages i like\
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=Javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=A37ADC)&nbsp;
 \
-side languages i often use
+side languages i often/sometimes use
 \
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=00007C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
