@@ -14,7 +14,7 @@ main languages i like\
 ![CSS](https://img.shields.io/badge/-CSS-1D0F45?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JS](https://img.shields.io/badge/-JavaScript-1D0F45?style=flat&logo=Javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-1D0F45?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-1D0F45?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-1D0F45?style=flat&logo=python&logoColor=FED443)&nbsp;
 \
 side languages i often/sometimes use
 \
