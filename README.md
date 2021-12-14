@@ -4,6 +4,8 @@
 <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=tsuris&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=Tsu's%20Activity" />
 </p>-->
 
+![v](https://komarev.com/ghpvc/?username=tsuris&color=blueviolet&style=flat&label=Profile+Views)
+
 main things i am focusing on right now\
 ![C#](https://img.shields.io/badge/-C%23-1D0F45?style=flat&logo=csharp&logoColor=A37ADC)&nbsp;
 ![WPF](https://img.shields.io/badge/-WPF/XAML-1D0F45?style=flat&logo=csharp&logoColor=A37ADC)&nbsp;
