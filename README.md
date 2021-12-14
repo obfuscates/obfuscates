@@ -1,10 +1,10 @@
 <!-- kind of retarded alignment for graph & stats, unused for now -->
 <!--<p align="center">
-<img width="43%" src="https://github-readme-stats.vercel.app/api?username=tsuris&show_icons=true&theme=dracula&custom_title=Tsu's%20Stats&count_private=true" />
-<img width="49%" src="https://activity-graph.herokuapp.com/graph?username=tsuris&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=Tsu's%20Activity" />
+<img width="43%" src="https://github-readme-stats.vercel.app/api?username=obfuscates&show_icons=true&theme=dracula&custom_title=Tsu's%20Stats&count_private=true" />
+<img width="49%" src="https://activity-graph.herokuapp.com/graph?username=obfuscates&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=Tsu's%20Activity" />
 </p>-->
 
-![v](https://komarev.com/ghpvc/?username=tsuris&color=blueviolet&style=flat&label=Profile+Views)
+![v](https://komarev.com/ghpvc/?username=obfuscates&color=blueviolet&style=flat&label=Profile+Views)
 
 main things i am focusing on right now\
 ![C#](https://img.shields.io/badge/-C%23-1D0F45?style=flat&logo=csharp&logoColor=A37ADC)&nbsp;
@@ -34,15 +34,15 @@ preferred browser
 \
 ![Brave](https://img.shields.io/badge/-Brave-1D0F45?style=flat&logo=brave&logoColor=E3562F)&nbsp;
 
-![stats](https://github-readme-stats.vercel.app/api?username=tsuris&show_icons=true&theme=dracula&custom_title=delta's%20Stats&count_private=true)
-<!--![streak](https://github-readme-streak-stats.herokuapp.com/?user=tsuris&theme=dracula)-->
-![graph](https://activity-graph.herokuapp.com/graph?username=tsuris&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=delta's%20Activity)
+![stats](https://github-readme-stats.vercel.app/api?username=obfuscates&show_icons=true&theme=dracula&custom_title=delta's%20Stats&count_private=true)
+<!--![streak](https://github-readme-streak-stats.herokuapp.com/?user=obfuscates&theme=dracula)-->
+![graph](https://activity-graph.herokuapp.com/graph?username=obfuscates&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=delta's%20Activity)
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vzzjvtb8yhmqy960dvzktlgz8&cover_image=true&theme=default)
 
-<!-- Old stats :p -->
-<!--![Stats](https://github-readme-stats.vercel.app/api?username=tsuris&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=db7a7a&icon_color=ae2222&text_color=D3D3D3&bg_color=0,000000,400f0f)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsuris&title_color=db7a7a&icon_color=ae2222&text_color=D3D3D3&bg_color=0,000000,400f0f)-->
+<!-- Old stats -->
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=obfuscates&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=db7a7a&icon_color=ae2222&text_color=D3D3D3&bg_color=0,000000,400f0f)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obfuscates&title_color=db7a7a&icon_color=ae2222&text_color=D3D3D3&bg_color=0,000000,400f0f)-->
 
 
 <!--![Waves](https://cdn.ghost.lgbt/wave.svg)-->
