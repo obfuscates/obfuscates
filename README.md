@@ -1,7 +1,7 @@
 <!-- kind of retarded alignment for graph & stats, unused for now -->
 <!--<p align="center">
-<img width="43%" src="https://github-readme-stats.vercel.app/api?username=obfuscates&show_icons=true&theme=dracula&custom_title=Tsu's%20Stats&count_private=true" />
-<img width="49%" src="https://activity-graph.herokuapp.com/graph?username=obfuscates&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=Tsu's%20Activity" />
+<img width="43%" src="https://github-readme-stats.vercel.app/api?username=obfuscates&show_icons=true&theme=dracula&custom_title=delta's%20Stats&count_private=true" />
+<img width="49%" src="https://activity-graph.herokuapp.com/graph?username=obfuscates&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=delta's%20Activity" />
 </p>-->
 
 ![v](https://komarev.com/ghpvc/?username=obfuscates&color=4556B8&style=flat&label=Profile+Views)
