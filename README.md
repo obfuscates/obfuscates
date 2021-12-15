@@ -4,35 +4,36 @@
 <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=obfuscates&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=Tsu's%20Activity" />
 </p>-->
 
-![v](https://komarev.com/ghpvc/?username=obfuscates&color=blueviolet&style=flat&label=Profile+Views)
+![v](https://komarev.com/ghpvc/?username=obfuscates&color=4556B8&style=flat&label=Profile+Views)
 
 main things i am focusing on right now\
-![C#](https://img.shields.io/badge/-C%23-1D0F45?style=flat&logo=csharp&logoColor=A37ADC)&nbsp;
-![WPF](https://img.shields.io/badge/-WPF/XAML-1D0F45?style=flat&logo=csharp&logoColor=A37ADC)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)&nbsp;
+![WPF](https://img.shields.io/badge/-WPF/XAML-4556B8?style=flat&logo=csharp&logoColor=A37ADC)&nbsp;
 
 main languages i like\
-![HTML](https://img.shields.io/badge/-HTML-1D0F45?style=flat&logo=HTML5)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-1D0F45?style=flat&logo=PHP)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1D0F45?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JS](https://img.shields.io/badge/-JavaScript-1D0F45?style=flat&logo=Javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-1D0F45?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-1D0F45?style=flat&logo=python&logoColor=FED443)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-4556B8?style=flat&logo=HTML5)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-4556B8?style=flat&logo=PHP)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-4556B8?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JS](https://img.shields.io/badge/-JavaScript-4556B8?style=flat&logo=Javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-4556B8?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-4556B8?style=flat&logo=python&logoColor=FED443)&nbsp;
 \
 side languages i often/sometimes use
 \
-![Lua](https://img.shields.io/badge/-Lua-1D0F45?style=flat&logo=lua&logoColor=00007C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-1D0F45?style=flat&logo=git)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-1D0F45?style=flat&logo=mysql)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-4556B8?style=flat&logo=lua&logoColor=00007C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-4556B8?style=flat&logo=git)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4556B8?style=flat&logo=mysql)&nbsp;
 \
 tools i use
 \
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1D0F45?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-1D0F45?style=flat&logo=visual-studio&logoColor=AA75E8)&nbsp;
-![Visual Studio Blend](https://img.shields.io/badge/-Visual%20Studio%20Blend-1D0F45?style=flat&logo=visual-studio&logoColor=5FC4DD)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-4556B8?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-4556B8?style=flat&logo=visual-studio&logoColor=AA75E8)&nbsp;
+![Visual Studio Blend](https://img.shields.io/badge/-Visual%20Studio%20Blend-4556B8?style=flat&logo=visual-studio&logoColor=5FC4DD)&nbsp;
+![Obsidian](https://img.shields.io/badge/-Obsidian-4556B8?style=flat&logo=obsidian&logoColor=493698)&nbsp;
 \
 preferred browser
 \
-![Brave](https://img.shields.io/badge/-Brave-1D0F45?style=flat&logo=brave&logoColor=E3562F)&nbsp;
+![Brave](https://img.shields.io/badge/-Brave-4556B8?style=flat&logo=brave&logoColor=E3562F)&nbsp;
 
 ![stats](https://github-readme-stats.vercel.app/api?username=obfuscates&show_icons=true&theme=dracula&custom_title=delta's%20Stats&count_private=true)
 <!--![streak](https://github-readme-streak-stats.herokuapp.com/?user=obfuscates&theme=dracula)-->
