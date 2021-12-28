@@ -8,13 +8,14 @@
 
 main things i am focusing on right now\
 ![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)&nbsp;
-![WPF](https://img.shields.io/badge/-WPF/XAML-4556B8?style=flat&logo=csharp&logoColor=A37ADC)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-4556B8?style=flat&logo=flutter&logoColor=67B1F0)&nbsp;
 
 main languages i like\
 ![HTML](https://img.shields.io/badge/-HTML-4556B8?style=flat&logo=HTML5)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-4556B8?style=flat&logo=PHP)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-4556B8?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JS](https://img.shields.io/badge/-JavaScript-4556B8?style=flat&logo=Javascript)&nbsp;
+![WPF](https://img.shields.io/badge/-WPF/XAML-4556B8?style=flat&logo=csharp&logoColor=A37ADC)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-4556B8?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-4556B8?style=flat&logo=python&logoColor=FED443)&nbsp;
 \
