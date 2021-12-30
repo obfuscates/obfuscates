@@ -7,34 +7,34 @@
 ![v](https://komarev.com/ghpvc/?username=obfuscates&color=4556B8&style=flat&label=Profile+Views)
 
 main things i am focusing on right now\
-![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-4556B8?style=flat&logo=flutter&logoColor=67B1F0)&nbsp;
+<a href="https://docs.microsoft.com/en-us/dotnet/">![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;
+<a href="https://flutter.dev/">![Flutter](https://img.shields.io/badge/-Flutter-4556B8?style=flat&logo=flutter&logoColor=67B1F0)</a>&nbsp;
 
 main languages i like\
-![HTML](https://img.shields.io/badge/-HTML-4556B8?style=flat&logo=HTML5)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-4556B8?style=flat&logo=PHP)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-4556B8?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JS](https://img.shields.io/badge/-JavaScript-4556B8?style=flat&logo=Javascript)&nbsp;
-![WPF](https://img.shields.io/badge/-WPF/XAML-4556B8?style=flat&logo=csharp&logoColor=A37ADC)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-4556B8?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-4556B8?style=flat&logo=python&logoColor=FED443)&nbsp;
+<a href="https://wikipedia.org/wiki/HTML">![HTML](https://img.shields.io/badge/-HTML-4556B8?style=flat&logo=HTML5)</a>&nbsp;
+<a href="https://www.php.net/">![PHP](https://img.shields.io/badge/-PHP-4556B8?style=flat&logo=PHP)</a>&nbsp;
+<a href="https://wikipedia.org/wiki/CSS">![CSS](https://img.shields.io/badge/-CSS-4556B8?style=flat&logo=CSS3&logoColor=1572B6)</a>&nbsp;
+<a href="https://www.javascript.com/">![JS](https://img.shields.io/badge/-JavaScript-4556B8?style=flat&logo=Javascript)</a>&nbsp;
+<a href="https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2022">![WPF](https://img.shields.io/badge/-WPF/XAML-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;
+<a href="https://nodejs.org/">![Node.js](https://img.shields.io/badge/-Node.js-4556B8?style=flat&logo=node.js)</a>&nbsp;
+<a href="https://www.python.org/">![Python](https://img.shields.io/badge/-Python-4556B8?style=flat&logo=python&logoColor=FED443)</a>&nbsp;
 \
 side languages i often/sometimes use
 \
-![Lua](https://img.shields.io/badge/-Lua-4556B8?style=flat&logo=lua&logoColor=00007C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-4556B8?style=flat&logo=git)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-4556B8?style=flat&logo=mysql)&nbsp;
+<a href="https://www.lua.org/">![Lua](https://img.shields.io/badge/-Lua-4556B8?style=flat&logo=lua&logoColor=00007C)</a>&nbsp;
+<a href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-4556B8?style=flat&logo=git)</a>&nbsp;
+<a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/-MySQL-4556B8?style=flat&logo=mysql)</a>&nbsp;
 \
 tools i use
 \
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-4556B8?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-4556B8?style=flat&logo=visual-studio&logoColor=AA75E8)&nbsp;
-![Visual Studio Blend](https://img.shields.io/badge/-Visual%20Studio%20Blend-4556B8?style=flat&logo=visual-studio&logoColor=5FC4DD)&nbsp;
-![Obsidian](https://img.shields.io/badge/-Obsidian-4556B8?style=flat&logo=obsidian&logoColor=493698)&nbsp;
+<a href="https://code.visualstudio.com/">![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-4556B8?style=flat&logo=visual-studio-code&logoColor=007ACC)</a>&nbsp;
+<a href="https://visualstudio.microsoft.com/">![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-4556B8?style=flat&logo=visual-studio&logoColor=AA75E8)</a>&nbsp;
+<a href="https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2022">![Visual Studio Blend](https://img.shields.io/badge/-Visual%20Studio%20Blend-4556B8?style=flat&logo=visual-studio&logoColor=5FC4DD)</a>&nbsp;
+<a href="https://obsidian.md/">![Obsidian](https://img.shields.io/badge/-Obsidian-4556B8?style=flat&logo=obsidian&logoColor=493698)</a>&nbsp;
 \
 preferred browser
 \
-![Brave](https://img.shields.io/badge/-Brave-4556B8?style=flat&logo=brave&logoColor=E3562F)&nbsp;
+<a href="https://brave.com/">![Brave](https://img.shields.io/badge/-Brave-4556B8?style=flat&logo=brave&logoColor=E3562F)</a>&nbsp;
 
 ![stats](https://github-readme-stats.vercel.app/api?username=obfuscates&show_icons=true&theme=dracula&custom_title=delta's%20Stats&count_private=true)
 <!--![streak](https://github-readme-streak-stats.herokuapp.com/?user=obfuscates&theme=dracula)-->
