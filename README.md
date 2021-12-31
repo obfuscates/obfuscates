@@ -35,6 +35,11 @@ tools i use
 preferred browser
 \
 <a href="https://brave.com/" target="_blank">![Brave](https://img.shields.io/badge/-Brave-4556B8?style=flat&logo=brave&logoColor=E3562F)</a>&nbsp;
+\
+things i have messed with
+\
+<a href="https://www.rust-lang.org/" target="_blank">![Rust](https://img.shields.io/badge/-Rust-4556B8?style=flat&logo=rust&logoColor=E3562F)</a>&nbsp;
+![Rust](https://img.shields.io/badge/-i%20dont%20know%20what%20else%20to%20add%20here%20yet-4556B8?style=flat&logo=&logoColor=E3562F)&nbsp;
 
 ![stats](https://github-readme-stats.vercel.app/api?username=obfuscates&show_icons=true&theme=dracula&custom_title=delta's%20Stats&count_private=true)
 <!--![streak](https://github-readme-streak-stats.herokuapp.com/?user=obfuscates&theme=dracula)-->
