@@ -6,6 +6,10 @@
 
 ![v](https://komarev.com/ghpvc/?username=obfuscates&color=4556B8&style=flat&label=Profile+Views)
 
+pinned repo
+\
+<a href="https://github.com/obfuscates/steam-ids" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obfuscates&repo=steam-ids&theme=dracula"></a>
+
 main things i am focusing on right now\
 <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;
 <a href="https://flutter.dev/" target="_blank">![Flutter](https://img.shields.io/badge/-Flutter-4556B8?style=flat&logo=flutter&logoColor=67B1F0)</a>&nbsp;
