@@ -47,7 +47,7 @@ things i have messed with
 
 ![stats](https://github-readme-stats.vercel.app/api?username=obfuscates&show_icons=true&theme=dracula&custom_title=delta's%20Stats&count_private=true)
 <!--![streak](https://github-readme-streak-stats.herokuapp.com/?user=obfuscates&theme=dracula)-->
-![graph](https://activity-graph.herokuapp.com/graph?username=obfuscates&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=delta's%20Activity)
+<!--![graph](https://activity-graph.herokuapp.com/graph?username=obfuscates&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=delta's%20Activity)-->
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vzzjvtb8yhmqy960dvzktlgz8&cover_image=true&theme=default)
 
