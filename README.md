@@ -4,6 +4,7 @@
 <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=obfuscates&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=delta's%20Activity" />
 </p>-->
 
+<a href="https://gitlab.com/obfuscate" target="_blank">![gitlab](https://img.shields.io/badge/-GitLab%20(@obfuscate)-4556B8?style=flat&logo=gitlab&logoColor=A37ADC)</a>&nbsp;
 ![v](https://komarev.com/ghpvc/?username=obfuscates&color=4556B8&style=flat&label=Profile+Views)
 
 pinned repo
