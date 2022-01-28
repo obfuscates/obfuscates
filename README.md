@@ -18,6 +18,7 @@ main things i am focusing on right now\
 main languages i like\
 <a href="https://wikipedia.org/wiki/HTML" target="_blank">![HTML](https://img.shields.io/badge/-HTML-4556B8?style=flat&logo=HTML5)</a>&nbsp;
 <a href="https://www.php.net/" target="_blank">![PHP](https://img.shields.io/badge/-PHP-4556B8?style=flat&logo=PHP)</a>&nbsp;
+<a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;
 <a href="https://wikipedia.org/wiki/CSS" target="_blank">![CSS](https://img.shields.io/badge/-CSS-4556B8?style=flat&logo=CSS3&logoColor=1572B6)</a>&nbsp;
 <a href="https://www.javascript.com/" target="_blank">![JS](https://img.shields.io/badge/-JavaScript-4556B8?style=flat&logo=Javascript)</a>&nbsp;
 <a href="https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2022" target="_blank">![WPF](https://img.shields.io/badge/-WPF/XAML-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;
@@ -28,7 +29,7 @@ side languages i often/sometimes use
 \
 <a href="https://www.lua.org/" target="_blank">![Lua](https://img.shields.io/badge/-Lua-4556B8?style=flat&logo=lua&logoColor=00007C)</a>&nbsp;
 <a href="https://git-scm.com/" target="_blank">![Git](https://img.shields.io/badge/-Git-4556B8?style=flat&logo=git)</a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank">![MySQL](https://img.shields.io/badge/-MySQL-4556B8?style=flat&logo=mysql)</a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank">![MySQL](https://img.shields.io/badge/-MySQL-4556B8?style=flat&logo=mysql&logoColor=EA901D)</a>&nbsp;
 \
 tools i use
 \
@@ -36,6 +37,11 @@ tools i use
 <a href="https://visualstudio.microsoft.com/" target="_blank">![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-4556B8?style=flat&logo=visual-studio&logoColor=AA75E8)</a>&nbsp;
 <a href="https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2022" target="_blank">![Visual Studio Blend](https://img.shields.io/badge/-Visual%20Studio%20Blend-4556B8?style=flat&logo=visual-studio&logoColor=5FC4DD)</a>&nbsp;
 <a href="https://obsidian.md/" target="_blank">![Obsidian](https://img.shields.io/badge/-Obsidian-4556B8?style=flat&logo=obsidian&logoColor=493698)</a>&nbsp;
+\
+databases i use
+\
+<a href="https://www.mysql.com/" target="_blank">![MySQL](https://img.shields.io/badge/-MySQL-4556B8?style=flat&logo=mysql&logoColor=EA901D)</a>&nbsp;
+<a href="https://www.mongodb.com/" target="_blank">![MongoDB](https://img.shields.io/badge/-MongoDB-4556B8?style=flat&logo=mongodb&logoColor=01E05F)</a>&nbsp;
 \
 preferred browser
 \
