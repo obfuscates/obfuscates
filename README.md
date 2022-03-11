@@ -13,6 +13,7 @@ pinned repo
 
 main things i am focusing on right now\
 <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;
+<a href="https://vuejs.org/" target="_blank">![Flutter](https://img.shields.io/badge/-Vue.js-4556B8?style=flat&logo=vue.js&logoColor=67B1F0)</a>&nbsp;
 <a href="https://flutter.dev/" target="_blank">![Flutter](https://img.shields.io/badge/-Flutter-4556B8?style=flat&logo=flutter&logoColor=67B1F0)</a>&nbsp;
 
 main languages i like\
