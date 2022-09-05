@@ -57,7 +57,7 @@ things i have messed with
 <!--![streak](https://github-readme-streak-stats.herokuapp.com/?user=obfuscates&theme=dracula)-->
 <!--![graph](https://activity-graph.herokuapp.com/graph?username=obfuscates&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=delta's%20Activity)-->
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vzzjvtb8yhmqy960dvzktlgz8&cover_image=true&theme=default)
+<!--![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vzzjvtb8yhmqy960dvzktlgz8&cover_image=true&theme=default)-->
 
 <!-- Old stats -->
 <!--![Stats](https://github-readme-stats.vercel.app/api?username=obfuscates&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=db7a7a&icon_color=ae2222&text_color=D3D3D3&bg_color=0,000000,400f0f)
