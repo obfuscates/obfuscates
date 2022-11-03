@@ -12,9 +12,10 @@ pinned repo
 <a href="https://github.com/obfuscates/steam-ids" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obfuscates&repo=steam-ids&theme=dracula"></a>
 
 main things i am focusing on right now\
-<a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;
-<a href="https://vuejs.org/" target="_blank">![Flutter](https://img.shields.io/badge/-Vue.js-4556B8?style=flat&logo=vue.js&logoColor=67B1F0)</a>&nbsp;
-<a href="https://flutter.dev/" target="_blank">![Flutter](https://img.shields.io/badge/-Flutter-4556B8?style=flat&logo=flutter&logoColor=67B1F0)</a>&nbsp;
+<a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![Ruby](https://img.shields.io/badge/-Ruby-4556B8?style=flat&logo=ruby&logoColor=CC342D)</a>&nbsp;
+<!--<a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;
+<a href="https://vuejs.org/" target="_blank">![Vue.js](https://img.shields.io/badge/-Vue.js-4556B8?style=flat&logo=vue.js&logoColor=67B1F0)</a>&nbsp;
+<a href="https://flutter.dev/" target="_blank">![Flutter](https://img.shields.io/badge/-Flutter-4556B8?style=flat&logo=flutter&logoColor=67B1F0)</a>&nbsp;-->
 
 main languages i like\
 <a href="https://wikipedia.org/wiki/HTML" target="_blank">![HTML](https://img.shields.io/badge/-HTML-4556B8?style=flat&logo=HTML5)</a>&nbsp;
@@ -22,7 +23,6 @@ main languages i like\
 <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;
 <a href="https://wikipedia.org/wiki/CSS" target="_blank">![CSS](https://img.shields.io/badge/-CSS-4556B8?style=flat&logo=CSS3&logoColor=1572B6)</a>&nbsp;
 <a href="https://www.javascript.com/" target="_blank">![JS](https://img.shields.io/badge/-JavaScript-4556B8?style=flat&logo=Javascript)</a>&nbsp;
-<a href="https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2022" target="_blank">![WPF](https://img.shields.io/badge/-WPF/XAML-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;
 <a href="https://nodejs.org/" target="_blank">![Node.js](https://img.shields.io/badge/-Node.js-4556B8?style=flat&logo=node.js)</a>&nbsp;
 <a href="https://www.python.org/" target="_blank">![Python](https://img.shields.io/badge/-Python-4556B8?style=flat&logo=python&logoColor=FED443)</a>&nbsp;
 \
@@ -44,10 +44,11 @@ databases i use
 <a href="https://www.mysql.com/" target="_blank">![MySQL](https://img.shields.io/badge/-MySQL-4556B8?style=flat&logo=mysql&logoColor=EA901D)</a>&nbsp;
 <a href="https://www.mongodb.com/" target="_blank">![MongoDB](https://img.shields.io/badge/-MongoDB-4556B8?style=flat&logo=mongodb&logoColor=01E05F)</a>&nbsp;
 \
-preferred browser
+browsers i use
 \
-<a href="https://brave.com/" target="_blank">![Brave](https://img.shields.io/badge/-Brave-4556B8?style=flat&logo=brave&logoColor=E3562F)</a>&nbsp;
-\
+<a href="https://qutebrowser.org/" target="_blank">![qutebrowser](https://img.shields.io/badge/-qutebrowser-4556B8?style=flat&logo=qt&logoColor=1e89c6)</a>&nbsp;
+<a href="https://github.com/ungoogled-software/ungoogled-chromium" target="_blank">![Ungoogled Chromium](https://img.shields.io/badge/-Ungoogled%20Chromium-4556B8?style=flat&logo=googlechrome&logoColor=86D6F3)</a>&nbsp;
+<!--fuck brave LOL--> <!--<a href="https://brave.com/" target="_blank">![Brave](https://img.shields.io/badge/-Brave-4556B8?style=flat&logo=brave&logoColor=E3562F)</a>&nbsp;-->
 things i have messed with
 \
 <a href="https://www.rust-lang.org/" target="_blank">![Rust](https://img.shields.io/badge/-Rust-4556B8?style=flat&logo=rust&logoColor=E3562F)</a>&nbsp;
