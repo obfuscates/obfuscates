@@ -4,15 +4,15 @@
 <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=obfuscates&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=delta's%20Activity" />
 </p>-->
 
-<a href="https://gitlab.com/obfuscate" target="_blank">![gitlab](https://img.shields.io/badge/-GitLab%20(@obfuscate)-4556B8?style=flat&logo=gitlab&logoColor=A37ADC)</a>&nbsp;
-![v](https://komarev.com/ghpvc/?username=obfuscates&color=4556B8&style=flat&label=Profile+Views)
+<a href="https://gitlab.com/obfuscate" target="_blank">![gitlab](https://img.shields.io/badge/-GitLab%20(@obfuscate)-4556B8?style=flat&logo=gitlab&logoColor=FC6B0E)</a>&nbsp;
+<!--![v](https://komarev.com/ghpvc/?username=obfuscates&color=4556B8&style=flat&label=Profile+Views)-->
 
-pinned repo
+<!--pinned repo
 \
-<a href="https://github.com/obfuscates/steam-ids" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obfuscates&repo=steam-ids&theme=dracula"></a>
+<a href="https://github.com/obfuscates/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obfuscates&repo=steam-ids&theme=dracula"></a>-->
 
 main things i am focusing on right now\
-<a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![Ruby](https://img.shields.io/badge/-Ruby-4556B8?style=flat&logo=ruby&logoColor=CC342D)</a>&nbsp;
+<a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![WPF](https://img.shields.io/badge/-WPF%20(C%23)-4556B8?style=flat&logo=csharp&logoColor=8DB0FB)</a>&nbsp;
 <!--<a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;
 <a href="https://vuejs.org/" target="_blank">![Vue.js](https://img.shields.io/badge/-Vue.js-4556B8?style=flat&logo=vue.js&logoColor=67B1F0)</a>&nbsp;
 <a href="https://flutter.dev/" target="_blank">![Flutter](https://img.shields.io/badge/-Flutter-4556B8?style=flat&logo=flutter&logoColor=67B1F0)</a>&nbsp;-->
@@ -30,13 +30,13 @@ side languages i often/sometimes use
 \
 <a href="https://www.lua.org/" target="_blank">![Lua](https://img.shields.io/badge/-Lua-4556B8?style=flat&logo=lua&logoColor=00007C)</a>&nbsp;
 <a href="https://git-scm.com/" target="_blank">![Git](https://img.shields.io/badge/-Git-4556B8?style=flat&logo=git)</a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank">![MySQL](https://img.shields.io/badge/-MySQL-4556B8?style=flat&logo=mysql&logoColor=EA901D)</a>&nbsp;
 \
 tools i use
 \
 <a href="https://code.visualstudio.com/" target="_blank">![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-4556B8?style=flat&logo=visual-studio-code&logoColor=007ACC)</a>&nbsp;
 <a href="https://visualstudio.microsoft.com/" target="_blank">![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-4556B8?style=flat&logo=visual-studio&logoColor=AA75E8)</a>&nbsp;
 <a href="https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2022" target="_blank">![Visual Studio Blend](https://img.shields.io/badge/-Visual%20Studio%20Blend-4556B8?style=flat&logo=visual-studio&logoColor=5FC4DD)</a>&nbsp;
+<a href="https://vscodium.com/" target="_blank">![VSCodium](https://img.shields.io/badge/-VSCodium-4556B8?style=flat&logo=vscodium&logoColor=43A7EF)</a>&nbsp;
 <a href="https://obsidian.md/" target="_blank">![Obsidian](https://img.shields.io/badge/-Obsidian-4556B8?style=flat&logo=obsidian&logoColor=493698)</a>&nbsp;
 \
 databases i use
@@ -51,10 +51,18 @@ browsers i use
 <!--fuck brave LOL--> <!--<a href="https://brave.com/" target="_blank">![Brave](https://img.shields.io/badge/-Brave-4556B8?style=flat&logo=brave&logoColor=E3562F)</a>&nbsp;-->
 things i have messed with
 \
+<a href="https://tauri.app/" target="_blank">![Tauri](https://img.shields.io/badge/-Tauri-4556B8?style=flat&logo=tauri)</a>&nbsp;
+<a href="https://vuejs.org/" target="_blank">![Vue](https://img.shields.io/badge/-Vue-4556B8?style=flat&logo=vue.js)</a>&nbsp;
 <a href="https://www.rust-lang.org/" target="_blank">![Rust](https://img.shields.io/badge/-Rust-4556B8?style=flat&logo=rust&logoColor=E3562F)</a>&nbsp;
-![Rust](https://img.shields.io/badge/-i%20dont%20know%20what%20else%20to%20add%20here%20yet-4556B8?style=flat&logo=&logoColor=E3562F)&nbsp;
+<a href="https://www.ruby-lang.org/en/" target="_blank">![Ruby](https://img.shields.io/badge/-Ruby-4556B8?style=flat&logo=ruby&logoColor=CC342D)</a>&nbsp;
+![idk](https://img.shields.io/badge/-i%20dont%20know%20what%20else%20to%20add%20here%20yet-4556B8?style=flat&logo=&logoColor=E3562F)&nbsp;
 
-![stats](https://github-readme-stats.vercel.app/api?username=obfuscates&show_icons=true&theme=dracula&custom_title=delta's%20Stats&count_private=true)
+my favorite password hashing algorithm(s)
+\
+<a href="https://en.wikipedia.org/wiki/Argon2" target="_blank">![Argon2](https://img.shields.io/badge/-Argon2-4556B8?style=flat&logo=springsecurity&logoColor=86D6F3)</a>&nbsp;
+
+<!--![stats](https://github-readme-stats.vercel.app/api?username=obfuscates&show_icons=true&theme=dracula&custom_title=delta's%20Stats&count_private=true)-->
+
 <!--![streak](https://github-readme-streak-stats.herokuapp.com/?user=obfuscates&theme=dracula)-->
 <!--![graph](https://activity-graph.herokuapp.com/graph?username=obfuscates&theme=rogue&color=DC6386&bg_color=292A37&line=DC6386&hide_border=true&custom_title=delta's%20Activity)-->
 
