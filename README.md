@@ -11,15 +11,16 @@
 \
 <a href="https://github.com/obfuscates/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obfuscates&repo=steam-ids&theme=dracula"></a>-->
 
-main things i am focusing on right now\
+main things i am focusing on/using right now\
 <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![WPF](https://img.shields.io/badge/-WPF%20(C%23)-4556B8?style=flat&logo=csharp&logoColor=8DB0FB)</a>&nbsp;
-<!--<a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;
-<a href="https://vuejs.org/" target="_blank">![Vue.js](https://img.shields.io/badge/-Vue.js-4556B8?style=flat&logo=vue.js&logoColor=67B1F0)</a>&nbsp;
-<a href="https://flutter.dev/" target="_blank">![Flutter](https://img.shields.io/badge/-Flutter-4556B8?style=flat&logo=flutter&logoColor=67B1F0)</a>&nbsp;-->
+<a href="https://vuejs.org/" target="_blank">![Vue](https://img.shields.io/badge/-Vue-4556B8?style=flat&logo=vue.js)</a>&nbsp;
+<a href="https://www.php.net/" target="_blank">![PHP](https://img.shields.io/badge/-PHP-4556B8?style=flat&logo=PHP)</a>&nbsp;
+<!--<a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;-->
+<!--<a href="https://flutter.dev/" target="_blank">![Flutter](https://img.shields.io/badge/-Flutter-4556B8?style=flat&logo=flutter&logoColor=67B1F0)</a>&nbsp;-->
 
 main languages i like\
 <a href="https://wikipedia.org/wiki/HTML" target="_blank">![HTML](https://img.shields.io/badge/-HTML-4556B8?style=flat&logo=HTML5)</a>&nbsp;
-<a href="https://www.php.net/" target="_blank">![PHP](https://img.shields.io/badge/-PHP-4556B8?style=flat&logo=PHP)</a>&nbsp;
+<!--<a href="https://www.php.net/" target="_blank">![PHP](https://img.shields.io/badge/-PHP-4556B8?style=flat&logo=PHP)</a>&nbsp;-->
 <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![C#](https://img.shields.io/badge/-C%23-4556B8?style=flat&logo=csharp&logoColor=A37ADC)</a>&nbsp;
 <a href="https://wikipedia.org/wiki/CSS" target="_blank">![CSS](https://img.shields.io/badge/-CSS-4556B8?style=flat&logo=CSS3&logoColor=1572B6)</a>&nbsp;
 <a href="https://www.javascript.com/" target="_blank">![JS](https://img.shields.io/badge/-JavaScript-4556B8?style=flat&logo=Javascript)</a>&nbsp;
@@ -52,10 +53,10 @@ browsers i use
 things i have messed with
 \
 <a href="https://tauri.app/" target="_blank">![Tauri](https://img.shields.io/badge/-Tauri-4556B8?style=flat&logo=tauri)</a>&nbsp;
-<a href="https://vuejs.org/" target="_blank">![Vue](https://img.shields.io/badge/-Vue-4556B8?style=flat&logo=vue.js)</a>&nbsp;
 <a href="https://www.rust-lang.org/" target="_blank">![Rust](https://img.shields.io/badge/-Rust-4556B8?style=flat&logo=rust&logoColor=E3562F)</a>&nbsp;
 <a href="https://www.ruby-lang.org/en/" target="_blank">![Ruby](https://img.shields.io/badge/-Ruby-4556B8?style=flat&logo=ruby&logoColor=CC342D)</a>&nbsp;
 ![idk](https://img.shields.io/badge/-i%20dont%20know%20what%20else%20to%20add%20here%20yet-4556B8?style=flat&logo=&logoColor=E3562F)&nbsp;
+<!--<a href="https://vuejs.org/" target="_blank">![Vue](https://img.shields.io/badge/-Vue-4556B8?style=flat&logo=vue.js)</a>&nbsp;-->
 
 my favorite password hashing algorithm(s)
 \
