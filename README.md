@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>current focuses</p>
-  <img src="https://skillicons.dev/icons?i=vue,vite,tauri,tailwind,rust&theme=dark" alt="Vue, Vite, Tauri, Tailwind, and Rust"/>
+  <img src="https://skillicons.dev/icons?i=vue,vite,tauri,tailwind,rust,godot&theme=dark" alt="Vue, Vite, Tauri, Tailwind, Rust, and Godot"/>
   <h2></h2>
   <p>databases i use</p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" alt="MySQL, SQLite, Mongo DB"/>
